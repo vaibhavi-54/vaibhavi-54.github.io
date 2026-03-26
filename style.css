@@ -1,17 +1,21 @@
 
-
+html, body {
+    height: 100vh;
+    margin:0;
+    padding:0;
+}
 body {
     font-family: Arial, sans-serif;
     background-color: #f5e6dc;
-    min-height: 100vh;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }  
 .container {
     max-width: 800px;
     text-align: center;
-    margin: auto;
-    padding: 100px 20px;
+    
 } 
 h1 {
     font-size: 42px;
