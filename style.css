@@ -14,24 +14,25 @@ body {
     
 }  
 .container {
-    max-width: 800px;
+   
     text-align: center;
-    margin: auto;
+   <!-- margin: auto;
+     max-width: 800px; -->
     padding: 100px 20px;
     
 } 
-h1 {
+<!-- h1 {
     font-size: 42px;
-    color: #333;
+    color: #333; -->
 }
-p {
+<!--p {
     font-size: 18px;
-    color: #555;
+    color: #555; -->
 }
 .about {
     padding: 80px 20px;
     text-align: center;
-    background-color: #ffffff;
+    background-color: white;
 }
 .about h2 {
     font-size: 28px;
