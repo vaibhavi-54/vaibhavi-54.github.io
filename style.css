@@ -16,6 +16,7 @@ body {
 .container {
    
     text-align: center;
+    background: linear-gradient(to right, #f5e6dc, #f3d2c1);
    <!-- margin: auto;
      max-width: 800px; -->
     padding: 100px 20px;
