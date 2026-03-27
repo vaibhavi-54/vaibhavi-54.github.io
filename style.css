@@ -7,9 +7,9 @@ html, body {
 body {
     font-family: Arial, sans-serif;
     background-color: #f5e6dc;
-    display: flex;
+   <!-- display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; -->
     
 }  
 .container {
